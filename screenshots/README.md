@@ -1,10 +1,10 @@
 ## Results
 
 ### Accuracy
-![Accuracy](screenshots/accuracy_result.png)
+![Accuracy](screenshots/Accuracy_cheeck.png)
 
 ### Classification Report
-![Classification Report](screenshots/classification_report.png)
+![Classification Report](screenshots/Classification_Report.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](screenshots/confusion_matrix.png)
