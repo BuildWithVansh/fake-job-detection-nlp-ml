@@ -35,6 +35,7 @@ Online job portals often contain fake job advertisements that can mislead job se
 * Logistic Regression
 * Naive Bayes
 * Linear SVM
+* XGBoost
 
 ## Results
 
